@@ -1,0 +1,6 @@
+name: crouchToTnt
+version: '${project.version}'
+main: nozose.crouchtotnt.CrouchToTnt
+api-version: '1.20'
+commands:
+  game:
